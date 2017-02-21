@@ -1,0 +1,9 @@
+# Marble Phantasm (空想具現化)
+## Store anonymous functions as objects for serialization
+
+# Usage
+
+TBD
+
+# License
+GPLv3+
